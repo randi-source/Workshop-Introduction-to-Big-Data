@@ -18,4 +18,4 @@ Repositori ini membahas terkait pengenalan dan praktek penggunaan Big Data, teru
 - Big Data Best Practice
 - Aplikasi Big Data dan Studi Kasus dalam Teknik Industri
   
-Happy Learning!
+Happy Learning!🌱
